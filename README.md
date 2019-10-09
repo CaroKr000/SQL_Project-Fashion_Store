@@ -20,6 +20,7 @@
   - Show your question & answer it.
 
 ### Presentation: 
+(May take a minute to load fully)
 
 <img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Slides/1.0.png?raw=true" width=fill>
 
