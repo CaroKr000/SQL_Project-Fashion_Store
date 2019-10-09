@@ -1,4 +1,4 @@
-# SQL_Project-Fashion_Store
+# SQL Project Fashion Store
 
 > Data Modeling Real Life Case Assignment:
 
