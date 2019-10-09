@@ -57,6 +57,11 @@
 
 <img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Slides/18.0.png?raw=true" width=fill>
 
+### DDL, DML, ERD:
+
+<img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Pictures/SQL_1.png?raw=true" width=fill>
+<img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Pictures/SQL_2.png?raw=true" width=fill>
+
 
 ### License
 The License is a general MIT license. Please see the LICENSE.rtf file as an additional reference.
