@@ -19,7 +19,7 @@
   - Describe the data for each table.
   - Show your question & answer it.
 
-> ### Presentation: 
+#### Presentation: 
 (May take a minute to load fully)
 
 <img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Slides/1.0.png?raw=true" width=fill>
@@ -59,12 +59,12 @@
 <img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Slides/18.0.png?raw=true" width=fill>
 
 
-> ### DDL, DML, ERD:
+#### DDL, DML, ERD:
 <img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Pictures/SQL_1.png?raw=true" width=fill>
 <img src="https://github.com/CaroKr000/SQL_Project-Fashion_Store/blob/master/SQL_Pictures/SQL_2.png?raw=true" width=fill>
 
 
-### License
+#### License
 The License is a general MIT license. Please see the LICENSE.rtf file as an additional reference.
 
 This work is a joint project by Rajat Prasad, Carolin Kroeger, Sara Krumpak, Mohammed el Charif, Andrea Salvati, Dominik Thausing, Alejandro Torres Pérez, during the IE Master in Big Data and Business Analytics.
